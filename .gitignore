@@ -1,0 +1,4 @@
+build/venv/
+build/cache/
+build/*.png
+output/*.mp4
